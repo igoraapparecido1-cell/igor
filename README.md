@@ -1,5 +1,5 @@
 # igor
-projeto
+
 Projeto culturais 
 
 Para elaborar um planejamento de projetos culturais utilizando uma Estrutura Analítica de Projeto (EAP), vamos seguir algumas etapas fundamentais. A EAP é uma ferramenta que ajuda a dividir um projeto em partes menores e mais gerenciáveis. Aqui está um exemplo de como poderia ser estruturado um projeto cultural:
